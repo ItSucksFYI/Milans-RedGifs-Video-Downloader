@@ -75,7 +75,8 @@ The extension does not maintain a history of downloaded videos.
 
 For the full privacy details, see the privacy policy on the IT SUCKS! website:
 
-[Privacy Policy for Milan’s RedGifs Video Downloader](https://www.itsucks.fyi/privacy-policy-milans-redgifs-video-downloader/)
+[Privacy Policy for Milan’s RedGifs Video Downloader](https://www.itsucks.fyi/privacy-policy-for-milans-redgifs-video-downloader/)
+
 
 ## Error Log
 
