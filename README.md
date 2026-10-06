@@ -8,7 +8,7 @@ No external downloader website. No conversion service. No account. No subscripti
 
 > This extension is intended for personal use. Respect the original creators and do not republish, redistribute, or present downloaded content as your own without permission.
 
-![Milan’s RedGifs Video Downloader](assets/red-gif-downloader.png)
+![Milan’s RedGifs Video Downloader](red-gif-downloader.png)
 
 ## What It Does
 
