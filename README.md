@@ -121,7 +121,11 @@ If you run into a problem, leave a comment below the article and include any rel
 
 ## Changelog
 
-See [changelog.md](changelog.md) for version history and notable changes.
+1.1.9
+
+- Prepared the extension for Chrome Web Store distribution.
+- Updated the packaged version to 1.1.9.
+- Kept the tested downloader, player detection, fullscreen behavior, permissions, and performance logic unchanged.
 
 ## About
 
