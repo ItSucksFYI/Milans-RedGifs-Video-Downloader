@@ -126,12 +126,4 @@ Milan’s RedGifs Video Downloader is part of the **IT SUCKS!** project.
 
 [Visit IT SUCKS!](https://www.itsucks.fyi/)
 
-Sometimes you just want to save some stuff on your hard drive.
-
-You don’t need it.
-
-You just want it.
-
-And when that simple option isn’t available?
-
-**It sucks.**
+Sometimes you just want to save some stuff on your hard drive. You don’t need it. You just want it. And when that simple option isn’t available? **It sucks.**
