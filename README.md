@@ -132,6 +132,7 @@ Sometimes you just want to save some stuff on your hard drive. You don’t need 
 ## Download and Installation
 
 You can download the ready-to-use extension directly from this repository:
+
 [**Download Milan’s RedGifs Video Downloader**](https://github.com/ItSucksFYI/Milans-RedGifs-Video-Downloader/raw/refs/heads/main/milans-redgifs-video-downloader.zip)
 
 The extension is provided as a ZIP file. After downloading it, **extract the ZIP file first**. Chrome does not install the ZIP itself. You will need to load the extracted extension folder.
