@@ -128,3 +128,15 @@ Milan’s RedGifs Video Downloader is part of the **IT SUCKS!** project.
 [Visit IT SUCKS!](https://www.itsucks.fyi/)
 
 Sometimes you just want to save some stuff on your hard drive. You don’t need it. You just want it. And when that simple option isn’t available? **It sucks.**
+
+## Download and Installation
+
+You can download the ready-to-use extension directly from this repository: [**Download Milan’s RedGifs Video Downloader**](milans-redgifs-video-downloader.zip)
+
+The extension is provided as a ZIP file. After downloading it, **extract the ZIP file first**. Chrome does not install the ZIP itself. You will need to load the extracted extension folder.
+
+If you have never installed a Chrome extension manually before, follow this step-by-step guide: [**How to Install a Chrome Extension Manually**](https://www.itsucks.fyi/how-to-install-a-chrome-extension-manually/)
+
+The guide explains how to extract the ZIP file, enable Developer mode, use **Load unpacked**, select the correct extension folder, and deal with common installation problems.
+
+Chrome loads the extension directly from the selected folder, so **do not delete or move that folder after installation**.
